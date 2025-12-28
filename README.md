@@ -1,5 +1,7 @@
 # Operating-System-for-DevOps-Engineers
 
+![](OS.png)
+
 ## Self Assessment
 
 **_1.What is an operating system?_**
